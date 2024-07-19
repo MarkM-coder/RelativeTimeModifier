@@ -16,7 +16,7 @@
                 <label id="lblInsertInstruction"
                     for="txtYear"
                     class="col-form-label h3 px-3">
-                    Insert Relative Time Modifier and hit GO! (is not case sensitive)
+                    Insert Relative Time Modifier and hit GO! (not case sensitive)
                 </label>
 
                 <asp:TextBox ID="txtRTM"
